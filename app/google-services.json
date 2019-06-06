@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235983241763",
+    "firebase_url": "https://feedr-6d96b.firebaseio.com",
+    "project_id": "feedr-6d96b",
+    "storage_bucket": "feedr-6d96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235983241763:android:aac4c6e950685321",
+        "android_client_info": {
+          "package_name": "jeetin.dev.chatbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235983241763-vmah4ciif80u8qgb4vehllhg6hbm1hfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jeetin.dev.chatbuddy",
+            "certificate_hash": "693ba08fcf4aa9c0c83d438dcc7d29c14a536907"
+          }
+        },
+        {
+          "client_id": "235983241763-j1e5uqnsijfk0dashb9vorv78j340qh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPE3NxBa8cm1IqA_Lbp3FgZ8BZKmuxvVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235983241763-j1e5uqnsijfk0dashb9vorv78j340qh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
